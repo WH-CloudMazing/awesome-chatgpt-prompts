@@ -177451,3 +177451,16 @@ A model wearing a Dior puffy jacket in red colour wins a party with glossy heels
 
 </details>
 
+<details>
+<summary><strong>Red Dior Puffy Jacket Fashion Night Out Winner</strong></summary>
+
+## Red Dior Puffy Jacket Fashion Night Out Winner
+
+Contributed by [@sachinkarmaran@gmail.com](https://github.com/sachinkarmaran@gmail.com)
+
+```md
+A model wearing a Dior puffy jacket in red colour wins a party with glossy heels
+```
+
+</details>
+
